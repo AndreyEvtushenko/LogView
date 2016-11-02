@@ -1,0 +1,17 @@
+[Wed Mar 11 13:12:54 2015] [warn] Init: Name-based SSL virtual hosts only work for clients with TLS server name indication support (RFC 4366)
+[Wed Mar 11 13:12:54 2015] [warn] pid file Z:/usr/local/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Mar 11 13:12:55 2015] [warn] Init: Name-based SSL virtual hosts only work for clients with TLS server name indication support (RFC 4366)
+[Wed Mar 11 13:12:55 2015] [notice] Apache/2.2.22 (Win32) mod_ssl/2.2.22 OpenSSL/1.0.1c PHP/5.3.13 configured -- resuming normal operations
+[Wed Mar 11 13:12:55 2015] [notice] Server built: Apr 20 2012 18:42:30
+[Wed Mar 11 13:12:55 2015] [notice] Parent: Created child process 1964
+[Wed Mar 11 13:12:55 2015] [notice] Disabled use of AcceptEx() WinSock2 API
+[Wed Mar 11 13:12:56 2015] [warn] Init: Name-based SSL virtual hosts only work for clients with TLS server name indication support (RFC 4366)
+[Wed Mar 11 13:12:58 2015] [warn] Init: Name-based SSL virtual hosts only work for clients with TLS server name indication support (RFC 4366)
+[Wed Mar 11 13:12:58 2015] [notice] Child 1964: Child process is running
+[Wed Mar 11 13:12:58 2015] [notice] Child 1964: Acquired the start mutex.
+[Wed Mar 11 13:12:58 2015] [notice] Child 1964: Starting 25 worker threads.
+[Wed Mar 11 13:12:58 2015] [notice] Child 1964: Listening on port 443.
+[Wed Mar 11 13:12:58 2015] [notice] Child 1964: Listening on port 8648.
+[Wed Mar 11 13:12:58 2015] [notice] Child 1964: Listening on port 443.
+[Wed Mar 11 13:12:58 2015] [notice] Child 1964: Listening on port 80.
+[Wed Mar 11 19:26:47 2015] [error] [client 127.0.0.1] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in Z:\\home\\feis.svjatogor.by\\www\\wp-includes\\class-http.php on line 1510

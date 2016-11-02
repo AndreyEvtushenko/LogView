@@ -1,0 +1,11 @@
+C:\Users\Андрей\Documents\Курсовой проект\loganalisator\bin\Debug\loganalisator.exe.config
+C:\Users\Андрей\Documents\Курсовой проект\loganalisator\bin\Debug\loganalisator.exe
+C:\Users\Андрей\Documents\Курсовой проект\loganalisator\bin\Debug\loganalisator.pdb
+C:\Users\Андрей\Documents\Курсовой проект\loganalisator\obj\Debug\loganalisator.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Documents\Курсовой проект\loganalisator\obj\Debug\loganalisator.Form1.resources
+C:\Users\Андрей\Documents\Курсовой проект\loganalisator\obj\Debug\loganalisator.Properties.Resources.resources
+C:\Users\Андрей\Documents\Курсовой проект\loganalisator\obj\Debug\loganalisator.csproj.GenerateResource.Cache
+C:\Users\Андрей\Documents\Курсовой проект\loganalisator\obj\Debug\loganalisator.exe
+C:\Users\Андрей\Documents\Курсовой проект\loganalisator\obj\Debug\loganalisator.pdb
+C:\Users\Андрей\Documents\Курсовой проект\loganalisator\obj\Debug\loganalisator.FormChart.resources
+C:\Users\Андрей\Documents\Курсовой проект\loganalisator\obj\Debug\loganalisator.csproj.ResolveComReference.cache
